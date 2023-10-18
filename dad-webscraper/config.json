@@ -1,0 +1,11 @@
+{
+    "sendTo": ["5199492619@txt.bell.ca"],
+    "Focus": {
+        "maxPrice": 5000,
+        "oldestYear": 11    
+    },
+    "Fiesta": {
+        "maxPrice": 5000,
+        "oldestYear": 12
+    }
+}
